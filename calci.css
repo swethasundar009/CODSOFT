@@ -1,0 +1,29 @@
+body{
+  color:aquamarine;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D);
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+}
+h1{
+  text-align:center ;
+  font-size: 36px;
+}
+
+input{
+  font-size: 25px;
+  border-radius: 16px;
+  background-color: lightgoldenrodyellow;
+  width: 75px;
+  height: 50px;
+  margin: 5px;
+  border-style: none;
+  
+}
+
+.btn:hover{
+  cursor: pointer;
+}
+
